@@ -88,9 +88,9 @@ body{
     padding: 3% 3% 0% 3%;
     background-color: hsl(300, 43%, 22%);
     border-radius: 15px;
-    width: 365px;
-    margin-right: 5%;
-    height: 250px;
+    width: 350px;
+    margin-right: 3%;
+    height: 225px;
 }
 .card-item>h1{  
     color: #fff;
@@ -110,7 +110,7 @@ body{
     font-size: 1rem;
     color: white;
     font-weight: 400;
-    
+
 }
 #card-stair-one{
     margin-top: 20px;
